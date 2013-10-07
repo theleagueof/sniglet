@@ -9,6 +9,7 @@
 */
 @font-face {
   font-family: 'Sniglet';
+  src: url('Sniglet-webfont.eot'),
   src: url('Sniglet-webfont.eot?#iefix') format('embedded-opentype'),
        url('Sniglet-webfont.woff') format('woff'),
        url('Sniglet-webfont.ttf')  format('truetype'),
